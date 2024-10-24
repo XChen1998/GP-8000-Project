@@ -55,6 +55,10 @@ Training logs and results, will be automatically saved in a folder named: `ResNe
 
 The code also includes blocks for generating a confusion matrix and visualising predicted samples after the model has been trained.
 
+### 5. Analysis
+
+There are several other intuitive and easy-to-use Python scripts to make plots.
+
 ### Hardware Requirements
 
 - **GPU**: You must have a valid NVIDIA GPU that supports PyTorch hardware acceleration, with at least 16 GiB of video RAM.
